@@ -13,6 +13,15 @@ A curated collection of ready-to-use boilerplate projects for modern web, backen
 
 ---
 
+## 📂 Available Boilerplates
+
+### 🐍 FastAPI Boilerplate
+- **Branch**: [fastapi](https://github.com/anamul94/boilerplate-starter-kits/tree/fastapi)
+- **Description**: Modern FastAPI backend with authentication, database integration, testing, and Docker support
+- **Features**: JWT auth, PostgreSQL, SQLAlchemy, Pytest, Docker, Rate limiting
+
+---
+
 ## 📂 Structure
 
 Each boilerplate lives in its own directory under `/boilerplates`:
